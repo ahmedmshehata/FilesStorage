@@ -437,8 +437,12 @@ FodyWeavers.xsd
 /Frontend
 /64bit.rar
 /64bit/64bit/64bit
-/PaySkyAuthenticator/PaySkyAuthenticatorBackEnd/appsettings.json
-/PaySkyAuthenticator/PaySkyAuthenticatorBackEnd/ocelot.json
-/PaySkyAuthenticator/PaySkyAuthenticatorBackEnd/Startup.cs
-/StoreCloud.Products/StoreCloud.Products/appsettings.json
-/StoreCloud.Tenant/StoreCloud.Tenant.Services.Api/appsettings.json
+BusinessLogic/obj/Debug/net8.0/BusinessLogic.csproj.FileListAbsolute.txt
+BusinessLogic/obj/Debug/net8.0/BusinessLogic.csproj.FileListAbsolute.txt
+BusinessLogic/obj/Debug/net8.0/BusinessLogic.csproj.FileListAbsolute.txt
+FileStorage.API/obj/Debug/net8.0/apphost.exe
+BusinessLogic/obj/Debug/net8.0/BusinessLogic.csproj.FileListAbsolute.txt
+BusinessLogic/obj/Debug/net8.0/BusinessLogic.csproj.FileListAbsolute.txt
+FileStorage.API/obj/Debug/net8.0/apphost.exe
+FileStorage.API/obj/Debug/net8.0/FileStorage.API.assets.cache
+FileStorage.API/obj/Debug/net8.0/FileStorage.API.csproj.FileListAbsolute.txt
